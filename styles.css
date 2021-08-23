@@ -58,8 +58,9 @@ button {
     min-width: 337px;
 }
 
-.sedans button {
+.sedans button a {
     color: hsl(31, 77%, 52%);
+    text-decoration: none;
 }
 
 .suvs {
@@ -67,8 +68,9 @@ button {
     min-width: 337px;
 }
 
-.suvs button {
+.suvs button a {
     color: hsl(184, 100%, 22%);
+    text-decoration: none;
 }
 
 .luxury {
@@ -79,8 +81,9 @@ button {
     min-width: 337px;
 }
 
-.luxury button {
+.luxury button a {
     color: hsl(179, 100%, 13%);
+    text-decoration: none;
 }
 
 .attribution { 
